@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RiskTestConsole": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
